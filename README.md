@@ -1,2 +1,5 @@
-# ligne_de_commande_avec_python
-Ligne de commande avec Python https://tekipaki.hypotheses.org/3300
+# Ligne de commande avec python
+
+Ligne de commande avec Python.
+
+**Pour explications lire : [*Ligne de commande avec Python*](https://tekipaki.hypotheses.org/3300) sur [Tekipaki](https://tekipaki.hypotheses.org/).**
